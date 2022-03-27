@@ -1,0 +1,99 @@
+.input-field{
+    width: 100%;
+}
+.text-align{
+    text-align: initial;
+    margin-top: 15px;
+}
+.radio-button-wrapper{
+    float: left;
+}
+.excellent{
+    margin-left: 10px;
+}
+.radio-button-margin{
+    margin-left: 20px;
+}
+.good{
+    margin-left: 10px;
+}
+.fair{
+    margin-left: 10px;
+}
+.bad{
+    margin-left: 10px;
+}
+.react-tabs{
+    text-align: initial;
+    margin-top: 58px;
+    border: 1px solid;
+    padding: 30px;
+}
+.aromatic-bar{
+    color: blue;
+    font-size: 20px;
+    margin-top: 5px;
+    text-align: initial;
+
+}
+.para{
+    font-size: 10px;
+    margin-top: -5px;
+    text-align: initial;
+
+}
+.aromatic-wrapper{
+    background: #d7d2d2;
+}
+.main-form-input{
+    border: 1px solid;
+    padding: 25px;
+}
+.errorMsg{
+    color:red;
+    font-size: 12px;
+}
+.radiocheck-msg-error{
+    margin-right: 144px;
+}
+.form-class{
+    display: unset;
+}
+.table-class{
+    display: unset;
+    margin-left: 45px;
+}
+.table{
+    width: 100%;
+}
+.main-row-wrapper{
+    border: 1px solid ;
+    padding: 12px;
+}
+.emailid-head{
+    margin-left: 75px;
+}
+.mobile-head{
+    margin-left: 206px;
+}
+.table-header{
+    margin-top: 76px;
+}
+.all-feedback{
+    float: left;
+    margin-top:-52px;
+    font-size: 27px;
+    color: blue;
+}
+.radiocheck-head{
+    margin-left: 90px;
+}
+.emailval{
+    margin-left: 55px;
+}
+.mobval{
+    margin-left: 70px;
+}
+.qualityval{
+    margin-left:47px ;
+}
